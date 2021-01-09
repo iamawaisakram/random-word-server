@@ -1,8 +1,7 @@
 # random-word-server
-### A random word server for the Jotto app in the Udemy course "React / Redux Testing with Jest and Enzyme"
-
+### A random word server for the Jotto app 
 ## Installing
-1. Clone or fork the course repository found at [https://github.com/flyrightsister/udemy-react-testing-projects]
+1. Clone or fork the repository
 2. `cd` into the `random-word-server` directory (where this README is located).
 3. Run `npm install` 
 
